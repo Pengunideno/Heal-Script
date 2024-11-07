@@ -7,3 +7,5 @@ This is my first fivem script so if you have any issues at all add me on discord
 Credits to https://github.com/feelfreetofee for helping with some small issues I was having.
 
 Please do not sell this to others at it is a free script.
+
+https://streamable.com/nqtwqu - preview
